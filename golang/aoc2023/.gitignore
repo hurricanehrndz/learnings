@@ -23,3 +23,8 @@
 # Go workspace file
 go.work
 
+### direnv
+.direnv
+.direnv/
+.envrc
+
